@@ -2,7 +2,7 @@
 **Terraform concepts hands-on**
 
 
-Welcome to the infra-as-code-lab repository! This repository serves as a sandbox for experimenting with Infrastructure as Code (IaC) using Terraform. Here, you'll find various Terraform configurations, modules, and examples designed to help you learn and practice managing infrastructure resources.
+Welcome to the infra-as-code-terraform repository! This repository serves as a  for experimenting with Infrastructure as Code (IaC) using Terraform. Here, you'll find various Terraform configurations, modules, and examples designed to help you learn and practice managing infrastructure resources.
 
 Features:
 
