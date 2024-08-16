@@ -1,4 +1,4 @@
-# -infra-as-code-lab
+# infra-as-code-terraform
 **Terraform concepts hands-on**
 
 
