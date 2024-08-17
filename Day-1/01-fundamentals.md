@@ -17,3 +17,11 @@ IAC addresses these challenges by providing a systematic, automated, and code-dr
 
 These tools enable origanization to define, deploy and manage their infrastructure efficiently and consistenly, making it easier to adepapt to the dynamic needs of modern applications and services.
 
+# Why Terraform ?
+There are multiple reasons why Terraform is used over the other IAC tools, but below are main reasons,
+
+1. **Multi-Cloud Support:** Terraform is known for its multi-cloud support. it allows you to define infrastructure in a cloud-agnostic way, meaning you can use same configguration code to provision resources on varios cloud providers (AWS, AZURE, GCP etc) and even on-premises infrastructure. This flexibility can be beneficial if your origanization uses multiple cloud providers or plans to migrate between them
+
+2. **Large Ecosystem:** Terraform has a vast ecosystem of providers and modules contributed by both HashiCorp (The company behind Terraform) and the community. This means you can find pre-build modules and configurations for a wide range services and infrastructure components, saving your time and effort in writing custom configurations.
+
+3. **Declarative Syntax:** Terraform uses a declarative syntax, allowing you to specify the desired end-state of your infrastructure. This makes it easier to understand and maintain your code compared to imperative scripting languages.
