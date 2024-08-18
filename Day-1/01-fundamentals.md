@@ -25,3 +25,13 @@ There are multiple reasons why Terraform is used over the other IAC tools, but b
 2. **Large Ecosystem:** Terraform has a vast ecosystem of providers and modules contributed by both HashiCorp (The company behind Terraform) and the community. This means you can find pre-build modules and configurations for a wide range services and infrastructure components, saving your time and effort in writing custom configurations.
 
 3. **Declarative Syntax:** Terraform uses a declarative syntax, allowing you to specify the desired end-state of your infrastructure. This makes it easier to understand and maintain your code compared to imperative scripting languages.
+
+4. **State Management:** Terraform maintains a state file that tracks the current state of your infrastructure. This state file helps Terraform understand the difference between the desired and actual states of your infrastructure, enabling it to make informed decisions when you apply changes.
+
+5. **Plan and Apply:** Terraform's "plan" and "apply" workflow allows you to preview changes before applying them. This helps prevent unexpected modifications to your infrastructure and provides an apportunity toto review and approve changes before they are implemented.
+
+6. **Community Support:** Terraform has a large and active user community, which means you find answers to common questions, troubleshooting tips, and a wealth of documentation and tutorials online.
+
+7. **Integration with other Tools:** Terraform can be integrated with other DevOps and Automation Tools, such as Docker, Kubernetes, Ansible and Jenkins, allowing you to create comprehensive automation pipelines.
+
+8. **HCL Language:** Terraform uses HashiCorp Configuration Language (HCL), which is designed specificallyfor defining infrastructure. It's human-readable and expressive, making it easier for both Dev team and Operations team to work with.
