@@ -1,4 +1,4 @@
-# Getting Statred
+# Getting Started
 
 to get started with Terraform, it's important to understand some key terminology and concepts. Here are some fundamental terms and explanations.
 
